@@ -2,10 +2,10 @@
 
 Esse projeto simples de loja online foi desenvolvido pelo grupo **"Lindes e Breno"**, da turma **3A** do **Senac Caruaru**, com o objetivo de praticar, fixar e aprimorar os conceitos básicos de Programação Orientada a Objetos (POO) em Java, como:
 
-- ✅ Classes e objetos  
-- ✅ Herança  
-- ✅ Polimorfismo  
-- ✅ Encapsulamento  
+- ✅ Classes e objetos;
+- ✅ Herança;
+- ✅ Polimorfismo;
+- ✅ Encapsulamento.
 
 ---
 
@@ -23,9 +23,9 @@ Criar uma estrutura básica de uma loja virtual, simulando **produtos**, **clien
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Java 17+**
-- **IDE:** Eclipse / VS Code  
-- **Versionamento:** Git / GitHub
+- **Java 17+**;
+- **IDE:** Eclipse / VS Code;
+- **Versionamento:** Git / GitHub.
 
 ---
 
@@ -33,10 +33,10 @@ Criar uma estrutura básica de uma loja virtual, simulando **produtos**, **clien
 
 Projeto desenvolvido por **"Lindes e Breno"**, grupo composto por:
 
-- Gabriella Alves  
-- Samara Oliveira  
-- Breno Mesquita  
-- Ana Beatriz de Almeida  
+- Gabriella Alves;
+- Samara Oliveira;
+- Breno Mesquita;
+- Ana Beatriz de Almeida.
 
 Como parte do estudo de Java e Programação Orientada a Objetos.
 
@@ -52,7 +52,7 @@ Como parte do estudo de Java e Programação Orientada a Objetos.
 
 Durante o desenvolvimento deste projeto, praticamos:
 
-- Criação e organização de pacotes em Java  
-- Instanciação de objetos e uso de construtores  
-- Herança entre classes e sobreposição de métodos  
-- Aplicação prática de conceitos teóricos de POO  
+- Criação e organização de pacotes em Java;
+- Instanciação de objetos e uso de construtores;
+- Herança entre classes e sobreposição de métodos;  
+- Aplicação prática de conceitos teóricos de POO.
