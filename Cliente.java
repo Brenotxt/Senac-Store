@@ -32,9 +32,4 @@ public class Cliente {
     public void setTelefone(String telefone) {
         this.telefone = telefone;
     }
-
-    public void realizarCompra(String produto, int quantidade) {
-        System.out.println("Compra realizada: " + quantidade + " unidades de " + produto);
-        // Futura lógica de compra
-    }
 }

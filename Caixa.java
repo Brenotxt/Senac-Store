@@ -1,22 +1,21 @@
 public class Caixa extends Funcionario {
-    private double caixaTotal;
+    private double salario;
 
-    public Caixa(String nome, String cpf, double caixaTotal) {
+    public Caixa(String nome, String cpf, double salario) {
         super(nome, cpf);
-        this.caixaTotal = caixaTotal;
+        this.salario = salario;
     }
 
-    public double getCaixaTotal() {
-        return caixaTotal;
+    public double getSalario() {
+        return salario;
     }
 
-    public void setCaixaTotal(double caixaTotal) {
-        this.caixaTotal = caixaTotal;
+    public void setSalario(double salario) {
+        this.salario = salario;
     }
 
     public void registrarVenda(double valorVenda) {
-        caixaTotal += valorVenda;
-        System.out.println("Venda registrada: " + valorVenda + ". Caixa total agora é: " + caixaTotal);
+        System.out.println("Venda registrada: " + valorVenda);
     }
     
 }
