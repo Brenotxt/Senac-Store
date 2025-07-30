@@ -17,9 +17,9 @@ Criar uma estrutura básica de uma loja virtual, simulando **produtos**, **clien
 
 ## ⚙️ Funcionalidades
 
-Cadastrar gerentes e caixas
-Cadastrar produtos a partir dos gerentes
-Sistema de vendas a partir dos caixas
+- Cadastrar gerentes e caixas
+- Cadastrar produtos a partir dos gerentes
+- Sistema de vendas a partir dos caixas
 
 ---
 
