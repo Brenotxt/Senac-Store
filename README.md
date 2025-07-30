@@ -17,14 +17,16 @@ Criar uma estrutura básica de uma loja virtual, simulando **produtos**, **clien
 
 ## ⚙️ Funcionalidades
 
-🔧 *Em breve*
+Cadastrar gerentes e caixas
+Cadastrar produtos a partir dos gerentes
+Sistema de vendas a partir dos caixas
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
 - **Java 17+**;
-- **IDE:** Eclipse / VS Code;
+- **IDE:** VS Code;
 - **Versionamento:** Git / GitHub.
 
 ---
